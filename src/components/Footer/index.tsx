@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
               
-            2024 Hermoz alright reserved
+            2024 Hermoz Alright Reserved
               
             </p>
           </div>
